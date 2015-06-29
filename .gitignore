@@ -1,0 +1,7 @@
+# Temporary files generated when editing in MS-Office #
+~*.doc
+~*.tmp
+~*.docx
+
+# Generated pdf directory #
+pdf
