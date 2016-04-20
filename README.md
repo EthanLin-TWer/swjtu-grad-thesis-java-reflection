@@ -1,4 +1,4 @@
-# swjtu.grad.thesis.reflection
+# swjtu-grad-thesis-java-reflection
 A final release for all outputs produced by linesh's grad thesis.
 
 # 25/10/2015更新 过去的都是过去
